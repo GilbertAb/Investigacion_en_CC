@@ -42,7 +42,7 @@ def generate_words(parsed_tags, get_tag, get_class, get_id):
         word = ''
         all = tag.find_all()
         # Add element tag
-        if get_tag:
+        if get_tag and len(all) > 0:
             word += all[0].name
         # Add element Classes
         if get_class:
