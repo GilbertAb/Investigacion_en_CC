@@ -1,0 +1,138 @@
+Notas (ventana de 5):
+
+-> Sin cambiar ninguna palabra
+Tested:  1159
+Wrong:  88
+
+-> Cambiando 1 palabra en posición aleatoria
+Tested:  1159
+Wrong:  400
+Wrong %:  34.51251078515962
+
+-> Cambiando 2 palabras en posición aleatoria
+Tested:  1159
+Wrong:  706
+Wrong %:  60.91458153580673
+
+-> Cambiando 3 palabras en posición aleatoria
+Tested:  1159
+Wrong:  888
+Wrong %:  76.61777394305436
+
+-> Cambiando 4 palabras en posición aleatoria
+Tested:  1159
+Wrong:  1035
+Wrong %:  89.30112165660051
+
+
+
+Notas (ventana de 10):
+
+-> Cambiando 1 palabra en posición aleatoria
+Tested:  1154
+Wrong:  187
+Wrong %:  16.204506065857885
+
+-> Cambiando 2 palabras en posición aleatoria
+Tested:  1154
+Wrong:  360
+Wrong %:  31.19584055459272
+
+-> Cambiando 4 palabras en posición aleatoria
+Tested:  1154
+Wrong:  713
+Wrong %:  61.78509532062392
+
+-> Cambiando 5 palabras en posición aleatoria
+Tested:  1154
+Wrong:  827
+Wrong %:  71.66377816291161
+
+-> Cambiando 7 palabras en posición aleatoria
+Tested:  1154
+Wrong:  1052
+Wrong %:  91.16117850953206
+
+-> Cambiando 8 palabras en posición aleatoria
+Tested:  1154
+Wrong:  1093
+Wrong %:  94.71403812824957
+
+
+
+Notas (ventana de 20):
+
+-> Cambiando 1 palabra en posición aleatoria
+Tested:  1144
+Wrong:  98
+Wrong %:  8.566433566433567
+
+-> Cambiando 2 palabras en posición aleatoria
+Tested:  1144
+Wrong:  170
+Wrong %:  14.86013986013986
+
+-> Cambiando 4 palabras en posición aleatoria
+Tested:  1144
+Wrong:  323
+Wrong %:  28.234265734265733
+
+-> Cambiando 8 palabras en posición aleatoria
+Tested:  1144
+Wrong:  690
+Wrong %:  60.31468531468531
+
+-> Cambiando 10 palabras en posición aleatoria
+Tested:  1144
+Wrong:  824
+Wrong %:  72.02797202797203
+
+-> Cambiando 14 palabras en posición aleatoria
+Tested:  1144
+Wrong:  984
+Wrong %:  86.01398601398601
+
+-> Cambiando 16 palabras en posición aleatoria
+Tested:  1144
+Wrong:  1014
+Wrong %:  88.63636363636364
+
+
+
+
+Notas (ventana de 40): (ALTO LOSS COMPARADO A ANTERIORES | DURÓ MÁS TIEMPO ENTRENANDO | 1.1311 vs ~0.6)
+
+-> Cambiando 2 palabras en posición aleatoria 5
+Tested:  1124
+Wrong:  276
+Wrong %:  24.555160142348754
+
+-> Cambiando 4 palabras en posición aleatoria 10
+Tested:  1124
+Wrong:  333
+Wrong %:  29.626334519572953
+
+-> Cambiando 8 palabras en posición aleatoria 20
+Tested:  1124
+Wrong:  469
+Wrong %:  41.72597864768683
+
+-> Cambiando 16 palabras en posición aleatoria 40
+Tested:  1124
+Wrong:  725
+Wrong %:  64.5017793594306
+
+-> Cambiando 20 palabras en posición aleatoria 50
+Tested:  1124
+Wrong:  824
+Wrong %:  73.30960854092527
+
+-> Cambiando 28 palabras en posición aleatoria 70
+Tested:  1124
+Wrong:  939
+Wrong %:  83.54092526690391
+
+-> Cambiando 32 palabras en posición aleatoria 80
+Tested:  1124
+Wrong:  962
+Wrong %:  85.58718861209964
